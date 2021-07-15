@@ -9,4 +9,5 @@
 
  
  <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masrul&theme=radical" alt="masrul" /></p> -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=masrul&repo=GenTopo)](https://github.com/anuraghazra/github-readme-stats)
  
