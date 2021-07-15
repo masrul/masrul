@@ -1,4 +1,4 @@
-### Hello there 👋 I'm [Masrul Huda](), passionate about everything machine learning and materials science!
+### Hello,  I'm [Masrul Huda]()
 
 
 
