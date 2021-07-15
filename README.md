@@ -31,3 +31,7 @@
 <a href="https://github.com/masrul/Parallel-Computing-MPI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=masrul&repo=Parallel-Computing-MPI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
+<a href="https://github.com/masrul/DSMC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=masrul&repo=DSMC&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
