@@ -12,3 +12,4 @@
 ## Pinned Repos 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=masrul&repo=GenTopo)](https://github.com/masrul/GenTopo)
  
+[![](https://github-readme-stats.vercel.app/api/pin/?username=masrul&repo=GMXFit)](https://github.com/masrul/GMXFit)
