@@ -1,4 +1,4 @@
-### Hello there 👋 I'm [Masrul Huda](https://www.linkedin.com/in/osman-mamun/), passionate about everything machine learning and materials science!
+### Hello there 👋 I'm [Masrul Huda](), passionate about everything machine learning and materials science!
 
 
 
