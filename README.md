@@ -64,6 +64,9 @@
 ![](https://img.shields.io/badge/Simulation-CP2K-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 
+![](https://img.shields.io/badge/Viz-VMD-informational?style=flat&logo=&logoColor=white&color=red)
+![](https://img.shields.io/badge/Viz-Blender-informational?style=flat&logo=&logoColor=white&color=red)
+
 ## :file_folder: Resume 
 + [MasrulResume](./MasrulHuda-CV.pdf)
 
