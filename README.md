@@ -60,7 +60,7 @@
 
 ![](https://img.shields.io/badge/Simulation-Gromacs-informational?style=flat&logo=&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Simulation-LAMMPS-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Simulation-Gaussian-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Simulation-Gaussian-informational?style=flat&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Simulation-CP2K-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 
