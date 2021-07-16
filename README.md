@@ -67,7 +67,7 @@
 
 <!-- https://github.com/jayehernandez/jayehernandez/blob/main/README.md -->
 <p align="center">
-  <i>Find me</i>
+  <!-- <i>Find me</i> -->
 
   <p align="center">
     <a href="https://twitter.com/iMasrulHuda" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
