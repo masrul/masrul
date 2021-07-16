@@ -48,10 +48,10 @@
 ![](https://img.shields.io/badge/Lang-c++-information?style=flat&logo=c%2B%2B)&nbsp;
 ![](https://img.shields.io/badge/Lang-c-information?style=flat&logo=c)&nbsp;
 ![](https://img.shields.io/badge/Lang-python-information?style=flat&logo=python)&nbsp;
+![](https://img.shields.io/badge/Lang-Fortran-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![](https://img.shields.io/badge/IDE-VIM-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Fortran-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/HPC-MPI/OpenMP/OpenACC-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
