@@ -66,7 +66,10 @@
 
 
 <!-- https://github.com/jayehernandez/jayehernandez/blob/main/README.md -->
-## :telescope: Find me  
+<!-- ## :telescope: Find me -->  
+
+<img src="thanks.jpg" alt="drawing" width="800"/>
+
 <p align="center">
   <!-- <i>Find me</i> -->
 
@@ -77,6 +80,4 @@
   </p>
 
 </p>
-
-<img src="thanks.jpg" alt="drawing" width="800"/>
 
