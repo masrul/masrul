@@ -75,11 +75,6 @@
     <a href="mailto:mmh568@msstate.edu" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
   </p>
 
-  <p align="center">
-    <a href="https://visitor-badge.glitch.me/">
-      <img align="center" src="https://page-views.glitch.me/badge?page_id=jayehernandez.jayehernandez">
-    </a>
-  </p>
 </p>
 
 
