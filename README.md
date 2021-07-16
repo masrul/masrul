@@ -65,14 +65,11 @@
 + [MasrulResume](./MasrulHuda-CV.pdf)
 
 
-<!-- https://github.com/jayehernandez/jayehernandez/blob/main/README.md -->
-<!-- ## :telescope: Find me -->  
 
 <img src="thanks.jpg" alt="drawing" width="800"/>
 
+<!-- https://github.com/jayehernandez/jayehernandez/blob/main/README.md -->
 <p align="center">
-  <!-- <i>Find me</i> -->
-
   <p align="center">
     <a href="https://twitter.com/iMasrulHuda" alt="Twitter"><img src="./twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/masrulhuda/" alt="Linkedin"><img src="./linkedin-fill.svg"></a>
