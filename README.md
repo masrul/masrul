@@ -13,7 +13,7 @@
 
 
  
-## Pinned Repos 
+## :link: Pinned Repos 
 
 <a href="https://github.com/masrul/GenTopo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=masrul&repo=GenTopo&hide=description&theme=radical" />
