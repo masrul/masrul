@@ -78,4 +78,5 @@
 
 </p>
 
+<img src="thanks.jpg" alt="drawing" width="800"/>
 
