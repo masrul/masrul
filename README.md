@@ -56,6 +56,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitHub](https://img.shields.io/badge/OS-Linux-information?style=flat&logo=linux)&nbsp;
 ![GitHub](https://img.shields.io/badge/OS-macOS-information?style=flat&logo=mac)&nbsp;
+![GitHub](https://img.shields.io/badge/c++-information?style=flat&logo=c%2B%2B)&nbsp;
 
 
 
