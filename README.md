@@ -60,3 +60,6 @@
 ![](https://img.shields.io/badge/Simulation-Gaussian-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Simulation-CP2K-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
+
+## Resume 
+![MasrulResume](./MasrulHuda-CV.pdf)
