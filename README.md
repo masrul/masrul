@@ -54,7 +54,7 @@
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitHub](https://img.shields.io/badge/OS-Linux/mascOS-information?style=flat&logo=linux)&nbsp;
+![GitHub](https://img.shields.io/badge/OS-Linux-information?style=flat&logo=linux)&nbsp;
 
 
 
