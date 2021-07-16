@@ -1,4 +1,5 @@
-![](welcome.jpg)
+<img src="welcome.jpg" alt="drawing" width="800"/>
+
 ## GitHub Stats
 
 <a href="https://github.com/masrul/masrul">
