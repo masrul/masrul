@@ -7,7 +7,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=masrul&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=masrul&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=masrul&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masrul)](https://github.com/anuraghazra/github-readme-stats)
 
