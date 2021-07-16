@@ -42,24 +42,21 @@
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux/macOS-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=cpp&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/OS-Linux-information?style=flat&logo=linux)&nbsp;
+![](https://img.shields.io/badge/OS-macOS-information?style=flat&logo=mac)&nbsp;
+![](https://img.shields.io/badge/Lang-c++-information?style=flat&logo=c%2B%2B)&nbsp;
+![](https://img.shields.io/badge/Lang-c-information?style=flat&logo=c)&nbsp;
+![](https://img.shields.io/badge/Lang-python-information?style=flat&logo=python)&nbsp;
+![](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![](https://img.shields.io/badge/IDE-VIM-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Fortran-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IDE-VIM-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/HPC-MPI-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/HPC-OpenMP-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/HPC-OpenACC-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-
-![GitHub](https://img.shields.io/badge/OS-Linux-information?style=flat&logo=linux)&nbsp;
-![GitHub](https://img.shields.io/badge/OS-macOS-information?style=flat&logo=mac)&nbsp;
-![GitHub](https://img.shields.io/badge/Lang-c++-information?style=flat&logo=c%2B%2B)&nbsp;
-![GitHub](https://img.shields.io/badge/Lang-c-information?style=flat&logo=c)&nbsp;
-![GitHub](https://img.shields.io/badge/Lang-python-information?style=flat&logo=python)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 
 
