@@ -65,7 +65,8 @@
 
 
 ![](https://img.shields.io/badge/Viz-VMD-informational?style=flat&logo=&logoColor=white&color=red)
-![](https://img.shields.io/badge/Viz-Blender-informational?style=flat&logo=&logoColor=white&color=red)
+![](https://img.shields.io/badge/Viz-Blender-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
+
 
 ## :file_folder: Resume 
 + [MasrulResume](./MasrulHuda-CV.pdf)
