@@ -62,4 +62,4 @@
 
 
 ## Resume 
-![MasrulResume](./MasrulHuda-CV.pdf)
+[MasrulResume](./MasrulHuda-CV.pdf)
