@@ -56,14 +56,14 @@
 <img src="https://img.shields.io/badge/IDE-VIM-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" height="20">
 <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" height="20">
 <br />
+<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="20">
+<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" height="20">
+
+<br />
+<img src="" height="20">
+<img src="" height="20">
 <img src="" height="20">
 </p>
-![](https://img.shields.io/badge/OS-Linux-information?style=flat&logo=linux)&nbsp;
-![](https://img.shields.io/badge/OS-macOS-information?style=flat&logo=mac)&nbsp;
-![](https://img.shields.io/badge/Lang-c++-information?style=flat&logo=c%2B%2B)&nbsp;
-<br />
-![](https://img.shields.io/badge/Lang-python-information?style=flat&logo=python)&nbsp;
-![](https://img.shields.io/badge/Lang-Fortran-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 <br />
 ![](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
