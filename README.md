@@ -47,14 +47,14 @@
 <img src="https://img.shields.io/badge/OS-Linux-information?style=flat&logo=linux&logoColor=white&color=pink" height="22">
 <img src="https://img.shields.io/badge/OS-macOS-information?style=flat&logo=Apple&color=pink" height="22">
 <br />
-<img src="https://img.shields.io/badge/Lang-c++-information?style=flat&logo=c%2B%2B" height="22">
-<img src="https://img.shields.io/badge/Lang-python-information?style=flat&logo=python&logoColor=white" height="22">
-<img src="https://img.shields.io/badge/Lang-Fortran-informational?style=flat&logo=Fortran&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/Lang-c++-information?style=flat&logo=c%2B%2B&color=pink" height="22">
+<img src="https://img.shields.io/badge/Lang-python-information?style=flat&logo=python&logoColor=white&color=pink" height="22">
+<img src="https://img.shields.io/badge/Lang-Fortran-informational?style=flat&logo=Fortran&logoColor=white&color=pink" height="22">
 <br />
-<img src="https://img.shields.io/badge/HPC-MPI/OpenMP/OpenACC-informational?style=flat&logo=CodeIgniter&logoColor=white" height="22"> 
+<img src="https://img.shields.io/badge/HPC-MPI/OpenMP/OpenACC-informational?style=flat&logo=CodeIgniter&logoColor=white&color=pink" height="22"> 
 <br/>
-<img src="https://img.shields.io/badge/IDE-VIM-informational?style=flat&logo=vim&logoColor=white" height="22">
-<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/IDE-VIM-informational?style=flat&logo=vim&logoColor=white&color=pink" height="22">
+<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=pink" height="22">
 <br />
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="22">
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=white" height="22">
