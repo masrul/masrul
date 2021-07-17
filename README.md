@@ -57,7 +57,7 @@
 <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" height="20">
 <br />
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="20">
-<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" height="20">
+<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=white" height="20">
 
 <br />
 <br />
