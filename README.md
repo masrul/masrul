@@ -3,7 +3,6 @@
 <img src="welcome.jpg" alt="drawing" width="800"/>
 
 ## :bar_chart: GitHub Stats
-<hr style="border:5px solid blue"> </hr>
 
 <a href="https://github.com/masrul/masrul">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masrul&hide=roff,tex&theme=radical&langs_count=3" />
