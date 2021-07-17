@@ -64,8 +64,8 @@
 <img src="https://img.shields.io/badge/Simulation-Gromacs-informational?style=flat&logo=&logoColor=white&color=red" height="20">
 <img src="https://img.shields.io/badge/Simulation-LAMMPS-informational?style=flat&logo=&logoColor=white&color=2bbc8a" height="20">
 <br />
-<img src="" height="20">
-<img src="" height="20">
+<img src="https://img.shields.io/badge/Simulation-Gaussian-informational?style=flat&logo=&logoColor=white&color=red" height="20">
+<img src="https://img.shields.io/badge/Simulation-CP2K-informational?style=flat&logo=&logoColor=white&color=2bbc8a" height="20">
 </p>
 <br />
 ![](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
