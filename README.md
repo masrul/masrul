@@ -49,7 +49,7 @@
 <br />
 <img src="https://img.shields.io/badge/Lang-c++-information?style=flat&logo=c%2B%2B" height="25">
 <img src="https://img.shields.io/badge/Lang-python-information?style=flat&logo=python&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Lang-Fortran-informational?style=flat&logo=Fortran&logoColor=white&color=2bbc8a" height="25">
+<img src="https://img.shields.io/badge/Lang-Fortran-informational?style=flat&logo=Fortran&logoColor=white" height="25">
 <br />
 <img src="https://img.shields.io/badge/HPC-MPI/OpenMP/OpenACC-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" height="25"> 
 <br/>
