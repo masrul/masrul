@@ -59,7 +59,6 @@
 <br />
 
 <br />
-<br />
 <img src="https://img.shields.io/badge/Simulation-Gromacs-informational?style=flat&logo=Songoda&logoColor=white&color=powderblue" height="22">
 <img src="https://img.shields.io/badge/Simulation-LAMMPS-informational?style=flat&logo=Songoda&logoColor=white&color=powderblue" height="22">
 
