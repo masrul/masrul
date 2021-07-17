@@ -45,6 +45,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/OS-Linux-information?style=flat&logo=linux" width="70">
+<img src="https://img.shields.io/badge/OS-Linux-information?style=flat&logo=linux" width="70">
 </p>
 ![](https://img.shields.io/badge/OS-Linux-information?style=flat&logo=linux)&nbsp;
 ![](https://img.shields.io/badge/OS-macOS-information?style=flat&logo=mac)&nbsp;
