@@ -47,13 +47,18 @@
 <img src="https://img.shields.io/badge/OS-Linux-information?style=flat&logo=linux" height="20">
 <img src="https://img.shields.io/badge/OS-macOS-information?style=flat&logo=mac" height="20">
 <br />
-<img src="https://img.shields.io/badge/Lang-c++-information?style=flat&logo=c%2B%2B" width="70">
+<img src="https://img.shields.io/badge/Lang-c++-information?style=flat&logo=c%2B%2B" height="20">
+<img src="https://img.shields.io/badge/Lang-python-information?style=flat&logo=python" height="20">
+<img src="https://img.shields.io/badge/Lang-Fortran-informational?style=flat&logo=&logoColor=white&color=2bbc8a" height="20">
+<img src="" height="20">
+<img src="" height="20">
+<img src="" height="20">
+<img src="" height="20">
 </p>
 ![](https://img.shields.io/badge/OS-Linux-information?style=flat&logo=linux)&nbsp;
 ![](https://img.shields.io/badge/OS-macOS-information?style=flat&logo=mac)&nbsp;
 ![](https://img.shields.io/badge/Lang-c++-information?style=flat&logo=c%2B%2B)&nbsp;
 <br />
-![](https://img.shields.io/badge/Lang-c-information?style=flat&logo=c)&nbsp;
 ![](https://img.shields.io/badge/Lang-python-information?style=flat&logo=python)&nbsp;
 ![](https://img.shields.io/badge/Lang-Fortran-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 <br />
