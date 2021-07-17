@@ -70,7 +70,7 @@
 
 <br />
 <img src="https://img.shields.io/badge/Render-VMD-informational?style=flat&logo=&logoColor=white&color=red" height="20">
-<img src="https://img.shields.io/badge/Render-Blender-informational?style=flat&logo=&logoColor=white&color=red" height="20">
+<img src="https://img.shields.io/badge/Render-Blender-informational?style=flat&logo=Blender&logoColor=white&color=red" height="20">
 
 </p>
 
