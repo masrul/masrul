@@ -60,8 +60,8 @@
 
 <br />
 <br />
-<img src="https://img.shields.io/badge/Simulation-Gromacs-informational?style=flat&logo=&logoColor=white&color=red" height="22">
-<img src="https://img.shields.io/badge/Simulation-LAMMPS-informational?style=flat&logo=&logoColor=white&color=red" height="22">
+<img src="https://img.shields.io/badge/Simulation-Gromacs-informational?style=flat&logo=JSON&logoColor=white&color=yellow" height="22">
+<img src="https://img.shields.io/badge/Simulation-LAMMPS-informational?style=flat&logo=JSON&logoColor=white&color=yellow" height="22">
 
 <br />
 <img src="https://img.shields.io/badge/Simulation-Gaussian-informational?style=flat&logo=&logoColor=white&color=red" height="22">
