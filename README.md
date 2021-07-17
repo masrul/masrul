@@ -5,10 +5,10 @@
 ## :bar_chart: GitHub Stats
 
 <a href="https://github.com/masrul/masrul">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masrul&hide=roff,tex&line_height=20&theme=radical&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masrul&hide=roff,tex&theme=radical&langs_count=3" />
 </a>
 <a href="https://github.com/masrul/masrul">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=masrul&show_icons=true&line_width=10&count_private=true&theme=radical" alt="Masrul's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=masrul&show_icons=true&count_private=true&theme=radical" alt="Masrul's GitHub Stats" />
 </a>
 
 
