@@ -44,7 +44,7 @@
 ## 🔧 Tech Stack
 
 <p align="center">
-<img src="https://img.shields.io/badge/OS-Linux-information?style=flat&logo=linux" height="20">
+<img src="https://img.shields.io/badge/OS-Linux-information?style=flat&logo=linux&logoColor=white" height="20">
 <img src="https://img.shields.io/badge/OS-macOS-information?style=flat&logo=Apple" height="20">
 <br />
 <img src="https://img.shields.io/badge/Lang-c++-information?style=flat&logo=c%2B%2B" height="20">
