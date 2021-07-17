@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/OS-macOS-information?style=flat&logo=Apple" height="20">
 <br />
 <img src="https://img.shields.io/badge/Lang-c++-information?style=flat&logo=c%2B%2B" height="20">
-<img src="https://img.shields.io/badge/Lang-python-information?style=flat&logo=python" height="20">
+<img src="https://img.shields.io/badge/Lang-python-information?style=flat&logo=python&logoColor=white" height="20">
 <img src="https://img.shields.io/badge/Lang-Fortran-informational?style=flat&logo=Fortran&logoColor=white&color=2bbc8a" height="20">
 <br />
 <img src="https://img.shields.io/badge/HPC-MPI/OpenMP/OpenACC-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" height="20"> 
