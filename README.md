@@ -73,7 +73,6 @@
 
 
 
-<img src="thanks.jpg" alt="drawing" width="800"/>
 
 <!-- https://github.com/jayehernandez/jayehernandez/blob/main/README.md -->
 <p align="center">
@@ -84,4 +83,6 @@
   </p>
 
 </p>
+
+<img src="thanks.jpg" alt="drawing" width="800"/>
 
