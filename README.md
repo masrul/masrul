@@ -55,9 +55,8 @@
 <br/>
 <img src="https://img.shields.io/badge/IDE-VIM-informational?style=flat&logo=vim&logoColor=white&color=pink" height="22">
 <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=pink" height="22">
+<img src="https://img.shields.io/badge/VersionCtr-Git-05122A?style=flat&logo=git&logoColor=white&color=pink" height="22">
 <br />
-<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="22">
-<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=white" height="22">
 
 <br />
 <br />
