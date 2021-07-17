@@ -54,7 +54,7 @@
 <img src="https://img.shields.io/badge/IDE-VIM-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" height="20">
 <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" height="20">
 <br />
-<img src="" height="20">
+<img src="https://img.shields.io/badge/HPC-MPI/OpenMP/OpenACC-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" height="20">
 <img src="" height="20">
 </p>
 ![](https://img.shields.io/badge/OS-Linux-information?style=flat&logo=linux)&nbsp;
