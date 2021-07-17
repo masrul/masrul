@@ -44,33 +44,33 @@
 ## 🔧 Tech Stack
 
 <p align="center">
-<img src="https://img.shields.io/badge/OS-Linux-information?style=flat&logo=linux&logoColor=white" height="20">
-<img src="https://img.shields.io/badge/OS-macOS-information?style=flat&logo=Apple" height="20">
+<img src="https://img.shields.io/badge/OS-Linux-information?style=flat&logo=linux&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/OS-macOS-information?style=flat&logo=Apple" height="25">
 <br />
-<img src="https://img.shields.io/badge/Lang-c++-information?style=flat&logo=c%2B%2B" height="20">
-<img src="https://img.shields.io/badge/Lang-python-information?style=flat&logo=python&logoColor=white" height="20">
-<img src="https://img.shields.io/badge/Lang-Fortran-informational?style=flat&logo=Fortran&logoColor=white&color=2bbc8a" height="20">
+<img src="https://img.shields.io/badge/Lang-c++-information?style=flat&logo=c%2B%2B" height="25">
+<img src="https://img.shields.io/badge/Lang-python-information?style=flat&logo=python&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Lang-Fortran-informational?style=flat&logo=Fortran&logoColor=white&color=2bbc8a" height="25">
 <br />
-<img src="https://img.shields.io/badge/HPC-MPI/OpenMP/OpenACC-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" height="20"> 
+<img src="https://img.shields.io/badge/HPC-MPI/OpenMP/OpenACC-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" height="25"> 
 <br/>
-<img src="https://img.shields.io/badge/IDE-VIM-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a" height="20">
-<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" height="20">
+<img src="https://img.shields.io/badge/IDE-VIM-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a" height="25">
+<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" height="25">
 <br />
-<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="20">
-<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="25">
+<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=white" height="25">
 
 <br />
 <br />
-<img src="https://img.shields.io/badge/Simulation-Gromacs-informational?style=flat&logo=&logoColor=white&color=red" height="20">
-<img src="https://img.shields.io/badge/Simulation-LAMMPS-informational?style=flat&logo=&logoColor=white&color=2bbc8a" height="20">
+<img src="https://img.shields.io/badge/Simulation-Gromacs-informational?style=flat&logo=&logoColor=white&color=red" height="25">
+<img src="https://img.shields.io/badge/Simulation-LAMMPS-informational?style=flat&logo=&logoColor=white&color=2bbc8a" height="25">
 
 <br />
-<img src="https://img.shields.io/badge/Simulation-Gaussian-informational?style=flat&logo=&logoColor=white&color=red" height="20">
-<img src="https://img.shields.io/badge/Simulation-CP2K-informational?style=flat&logo=&logoColor=white&color=2bbc8a" height="20">
+<img src="https://img.shields.io/badge/Simulation-Gaussian-informational?style=flat&logo=&logoColor=white&color=red" height="25">
+<img src="https://img.shields.io/badge/Simulation-CP2K-informational?style=flat&logo=&logoColor=white&color=2bbc8a" height="25">
 
 <br />
-<img src="https://img.shields.io/badge/Render-VMD-informational?style=flat&logo=&logoColor=white&color=red" height="20">
-<img src="https://img.shields.io/badge/Render-Blender-informational?style=flat&logo=Blender&logoColor=white&color=red" height="20">
+<img src="https://img.shields.io/badge/Render-VMD-informational?style=flat&logo=&logoColor=white&color=red" height="25">
+<img src="https://img.shields.io/badge/Render-Blender-informational?style=flat&logo=Blender&logoColor=white&color=red" height="25">
 
 </p>
 
