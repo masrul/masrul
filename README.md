@@ -53,7 +53,7 @@
 <br />
 <img src="https://img.shields.io/badge/HPC-MPI/OpenMP/OpenACC-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" height="20"> 
 <br/>
-<img src="https://img.shields.io/badge/IDE-VIM-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" height="20">
+<img src="https://img.shields.io/badge/IDE-VIM-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a" height="20">
 <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" height="20">
 <br />
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="20">
