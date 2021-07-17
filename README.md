@@ -68,8 +68,8 @@
 <img src="https://img.shields.io/badge/Simulation-CP2K-informational?style=flat&logo=Songoda&logoColor=white&color=wheat" height="22">
 
 <br />
-<img src="https://img.shields.io/badge/Render-VMD-informational?style=flat&logo=&logoColor=white&color=red" height="22">
-<img src="https://img.shields.io/badge/Render-Blender-informational?style=flat&logo=Blender&logoColor=white&color=red" height="22">
+<img src="https://img.shields.io/badge/Render-VMD-informational?style=flat&logo=Vivaldi&logoColor=white&color=wheat" height="22">
+<img src="https://img.shields.io/badge/Render-Blender-informational?style=flat&logo=Blender&logoColor=white&color=wheat" height="22">
 
 </p>
 
