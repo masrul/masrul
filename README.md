@@ -86,7 +86,7 @@
     <a href="https://www.linkedin.com/in/masrulhuda/" alt="Linkedin"><img src="./linkedin-fill.svg"></a>
     <a href="mailto:mmh568@msstate.edu" alt="Contact me"><img src="./mail-fill.svg"></a>
     <br />
-    <a href="https://github.com/masrul/masrul/blob/main/MasrulHuda-CV.pdf" alt="Contact me"><img src="./cv.svg" width="40"></a>
+    <a href="https://github.com/masrul/masrul/blob/main/MasrulHuda-CV.pdf" alt="Contact me"><img src="./cv.svg" width="30"></a>
   </p>
 </p>
 <img src="thanks.jpg" alt="drawing" width="800"/>
