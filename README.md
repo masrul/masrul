@@ -43,6 +43,7 @@
 
 ## 🔧 Tech Stack
 
+<p align="center">
 ![](https://img.shields.io/badge/OS-Linux-information?style=flat&logo=linux)&nbsp;
 ![](https://img.shields.io/badge/OS-macOS-information?style=flat&logo=mac)&nbsp;
 ![](https://img.shields.io/badge/Lang-c++-information?style=flat&logo=c%2B%2B)&nbsp;
@@ -68,6 +69,7 @@
 ![](https://img.shields.io/badge/Viz-VMD-informational?style=flat&logo=&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Viz-Blender-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 
+</p>
 
 <!-- ## :file_folder: Resume --> 
 <!-- + [MasrulResume](./MasrulHuda-CV.pdf) -->
