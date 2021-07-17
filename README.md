@@ -45,7 +45,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/OS-Linux-information?style=flat&logo=linux&logoColor=white&color=pink" height="22">
-<img src="https://img.shields.io/badge/OS-macOS-information?style=flat&logo=Apple" height="22">
+<img src="https://img.shields.io/badge/OS-macOS-information?style=flat&logo=Apple&color=pink" height="22">
 <br />
 <img src="https://img.shields.io/badge/Lang-c++-information?style=flat&logo=c%2B%2B" height="22">
 <img src="https://img.shields.io/badge/Lang-python-information?style=flat&logo=python&logoColor=white" height="22">
