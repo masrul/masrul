@@ -10,8 +10,6 @@
 <a href="https://github.com/masrul/masrul">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=masrul&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Masrul's GitHub Stats" />
 </a>
-
-![masrul gif](https://github.com/masrul/masrul/blob/output/github-contribution-grid-snake.svg)
  
 ## :link: Pinned Repos 
 
