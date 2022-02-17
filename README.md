@@ -12,6 +12,7 @@
 </a>
 
 ![](https://github.com/masrul/masrul/blob/output/github-contribution-grid-snake.gif)
+<img src="output/github-contribution-grid-snake.gif" width="800" />
  
 ## :link: Pinned Repos 
 
