@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=masrul&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Masrul's GitHub Stats" />
 </a>
 
-![](https://github.com/masrul/masrul/blob/output/github-contribution-grid-snake.gif)
+<!-- ![](https://github.com/masrul/masrul/blob/output/github-contribution-grid-snake.gif) -->
 <img src="https://github.com/masrul/masrul/blob/output/github-contribution-grid-snake.gif" width="800" />
  
 ## :link: Pinned Repos 
