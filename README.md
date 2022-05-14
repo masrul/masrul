@@ -45,8 +45,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=masrul&repo=Parallel-Computing-MPI&hide=description&theme=radical" />
 </a>
 
-<a href="https://github.com/masrul/PES_NN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=masrul&repo=PES_NN&hide=description&theme=radical" />
+<a href="https://github.com/masrul/DataStructures-and-Algorithms">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=masrul&repo=DataStructures-and-Algorithms&hide=description&theme=radical" />
 </a>
 
 <a href="https://github.com/masrul/vmath">
