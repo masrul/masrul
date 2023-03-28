@@ -62,6 +62,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=masrul&repo=GMXTraj&hide=description&theme=radical" />
 </a>
 
+<a href="https://github.com/masrul/FixPBC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=masrul&repo=FixPBC&hide=description&theme=radical" />
+</a>
+
+
 
 ## 🔧 Tech Stack
 
