@@ -41,9 +41,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=masrul&repo=BibtexFixer&hide=description&theme=radical" />
 </a>
 
-#<a href="https://github.com/masrul/OverLapRemover">
-#  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=masrul&repo=OverLapRemover&hide=description&theme=radical" />
-#</a>
 
 <a href="https://github.com/masrul/DSMC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=masrul&repo=DSMC&hide=description&theme=radical" />
