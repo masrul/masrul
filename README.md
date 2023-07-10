@@ -5,7 +5,7 @@
 ## :bar_chart: GitHub Stats
 
 <a href="https://github.com/masrul/masrul">
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=masrul&hide=roff,tex&theme=radical&langs_count=3" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=masrul&hide=roff,tex&theme=radical&langs_count=3" />
 </a> 
 
 <a href="https://github.com/masrul/masrul">
