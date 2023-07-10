@@ -12,7 +12,7 @@
 </a>
 
 <!-- ![](https://github.com/masrul/masrul/blob/output/github-contribution-grid-snake.gif) -->
-<img src="https://github.com/masrul/masrul/blob/output/github-contribution-grid-snake.gif" width="800" />
+<!-- <img src="https://github.com/masrul/masrul/blob/output/github-contribution-grid-snake.gif" width="800" /> -->
  
 ## :link: Pinned Repos 
 <a href="https://github.com/masrul/Inception">
