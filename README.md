@@ -5,17 +5,18 @@
 ## :bar_chart: GitHub Stats
 
 <a href="https://github.com/masrul/masrul">
-  <img width="350" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=masrul&hide=roff,tex&theme=radical&langs_count=3" />
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=masrul&hide=roff,tex&theme=radical&langs_count=3" />
 </a> 
-<!--
+
 <a href="https://github.com/masrul/masrul">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=masrul&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Masrul's GitHub Stats" />
 </a>
--->
+
 
 <!-- ![](https://github.com/masrul/masrul/blob/output/github-contribution-grid-snake.gif) -->
 <!-- <img src="https://github.com/masrul/masrul/blob/output/github-contribution-grid-snake.gif" width="800" /> -->
- <br />
+
+
 ## :link: Pinned Repos 
 <a href="https://github.com/masrul/Inception">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=masrul&repo=Inception&hide=description&theme=radical" />
