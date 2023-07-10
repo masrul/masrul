@@ -8,7 +8,7 @@
   <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=masrul&hide=roff,tex&theme=radical&langs_count=3" />
 </a>
 <a href="https://github.com/masrul/masrul">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=masrul&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Masrul's GitHub Stats" />
+  <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=masrul&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Masrul's GitHub Stats" />
 </a>
 
 <!-- ![](https://github.com/masrul/masrul/blob/output/github-contribution-grid-snake.gif) -->
